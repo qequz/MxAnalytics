@@ -65,4 +65,4 @@ def vote(*, maks_messages_from_tg):
     return False
 
 
-print(vote(maks_messages_from_tg = "Прохладно на улице"))
+print(vote(maks_messages_from_tg = "Тут должно быть сообщение Макса"))
